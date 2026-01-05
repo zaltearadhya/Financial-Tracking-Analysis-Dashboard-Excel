@@ -1,9 +1,3 @@
-# Financial-Tracking-Analysis-Dashboard-Excel
-
-Great work on the **Financial Tracking Dashboard** 👍
-Below is a **GitHub-ready post** written in a professional README style, fully based on your Excel dashboard and the visuals you shared.
-
-
 # 📊 Financial Analysis Dashboard (Excel)
 
 ## 1. Problem Statement
