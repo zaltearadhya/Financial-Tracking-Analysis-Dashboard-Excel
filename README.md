@@ -3,7 +3,6 @@
 Great work on the **Financial Tracking Dashboard** 👍
 Below is a **GitHub-ready post** written in a professional README style, fully based on your Excel dashboard and the visuals you shared.
 
----
 
 # 📊 Financial Analysis Dashboard (Excel)
 
@@ -13,7 +12,7 @@ Organizations often struggle to monitor sales, profit, and performance across mu
 
 This project addresses that problem by creating an **interactive financial analysis dashboard in Excel** that provides clear insights into sales, profit, and unit performance across different dimensions.
 
----
+
 
 ## 2. Objectives
 
@@ -23,7 +22,7 @@ This project addresses that problem by creating an **interactive financial analy
 * To enable **interactive analysis** using slicers and filters
 * To support **data-driven business decision-making**
 
----
+
 
 ## 3. Data Overview
 
@@ -41,7 +40,7 @@ The dataset used for this dashboard is sourced from the **Excel file pinned abov
 
 This data enables multi-dimensional financial analysis across **time, geography, product, and customer segments**.
 
----
+
 
 ## 4. Data Preparation and Calculation
 
@@ -59,7 +58,7 @@ This data enables multi-dimensional financial analysis across **time, geography,
   * Month and Year
 * Applied **Excel slicers and timeline filters** for dynamic data interaction
 
----
+
 
 ## 5. Dashboard Structure and KPIs
 
@@ -81,7 +80,7 @@ The dashboard is structured into multiple visual sections:
 * Monthly and Yearly Sales Trends
 * Country-wise Sales Distribution
 
----
+
 
 ## 6. Observations and Key Insights
 
@@ -91,7 +90,7 @@ The dashboard is structured into multiple visual sections:
 * Sales are well-distributed across countries, with some markets consistently outperforming others
 * Monthly trends reveal fluctuations that can guide forecasting and inventory planning
 
----
+
 
 ## 7. Business Recommendations
 
@@ -101,7 +100,7 @@ The dashboard is structured into multiple visual sections:
 * Expand strategies in **high-performing countries** while improving underperforming regions
 * Use monthly trends to support **better financial forecasting**
 
----
+
 
 ## 8. Tools and Techniques
 
@@ -116,7 +115,7 @@ The dashboard is structured into multiple visual sections:
   * Trend analysis
   * Comparative analysis
 
----
+
 
 ## 9. Future Enhancement
 
@@ -126,7 +125,7 @@ The dashboard is structured into multiple visual sections:
 * Migrate the dashboard to **Power BI** for enhanced interactivity
 * Automate data refresh using external data sources
 
----
+
 
 ## 10. Conclusion
 
