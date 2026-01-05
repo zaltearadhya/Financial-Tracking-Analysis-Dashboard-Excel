@@ -39,6 +39,7 @@ The dataset used for this dashboard is sourced from the **Excel file pinned abov
 * **Profit**
 
 This data enables multi-dimensional financial analysis across **time, geography, product, and customer segments**.
+<a href="https://github.com/zaltearadhya/Financial-Tracking-Analysis-Dashboard-Excel/blob/main/Financial%20Tracking%20Analysis%20Dashboard.xlsx"> Financial Tracking Dataset </a>
 
 
 
@@ -80,6 +81,7 @@ The dashboard is structured into multiple visual sections:
 * Monthly and Yearly Sales Trends
 * Country-wise Sales Distribution
 
+<img width="1174" height="721" alt="Dashboard" src="https://github.com/user-attachments/assets/ebc1bae0-3fa8-4b02-87ed-57b43c18b9eb" />
 
 
 ## 6. Observations and Key Insights
